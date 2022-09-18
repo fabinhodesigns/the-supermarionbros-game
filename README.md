@@ -8,7 +8,7 @@ A simple joke I made with JS HTML and CSS
 - HTML
 - CSS
 - JavaScript
-- Git e Github
+- Git and Github
 
 ## 📞 Contact
 - freitasfabiano08@gmail.com
