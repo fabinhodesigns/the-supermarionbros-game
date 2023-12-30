@@ -12,4 +12,4 @@ A simple joke I made with JS HTML and CSS
 
 ## 📞 Contact
 - freitasfabiano08@gmail.com
-- @fabinhofreitastw
+- @ffabiiin
